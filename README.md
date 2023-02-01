@@ -2,14 +2,6 @@
 
 ### <🌹> About me </🌹>
 
-My name is balu and I'm a Indian **security Analyst**. I'm here on GitHub to:
-- Share my personal projects;
-- Learn more about smart contract auditing;
-- Contribute to third-party projects;
-- Get inspiration and new ideas!
-
-Feel free to visit [my repositories](https://github.com/balook?tab=repositories). Doubts or suggestions, please open an **issue** or a **pull request** and let's talk!
-
 
 ### <📊> GitHub stats </📊>
 
